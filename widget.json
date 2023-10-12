@@ -7,7 +7,7 @@
     "wordsLimit": {
       "type": "number",
       "label": "Number of words to be displayed",
-      "value": 5
+      "value": 10
     },
     "wordTimer": {
       "type": "number",
@@ -37,6 +37,6 @@
     },
     "widgetUpdateUrl": {
       "type": "hidden",
-      "value": "https://github.com/StreamElements/widgets/blob/master/AutoPoll/"
+      "value": "https://github.com/ElRafaeh/WordCounter"
     }
 }
