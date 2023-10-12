@@ -1,0 +1,36 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.wordRow{
+ 	 text-align: center;
+}
+
+.stop{
+  	font-size: 15px;
+  	font-weight: 500;
+  	color: #33ff99;
+ 	text-align: center;
+  	text-shadow: 1px 1px 2px black;
+}
+
+.word{
+  	display: inline-block;
+  	
+}
+
+.amount{
+ 	display: inline-block;
+}
+
+.title{
+  	text-align: center;
+  	font-size: 25px;
+  	color: #ff3333;
+  	font-weight: 900;
+  	text-decoration: underline;
+  	text-shadow: 1px 1px 2px black;
+}
