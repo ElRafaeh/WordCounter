@@ -17,7 +17,7 @@
       "onlyUniqueUsers": {
       "type": "dropdown",
       "label": "Accept only first vote per user:",
-      "value": "no",
+      "value": "yes",
       "options": {
         "yes": "Yes",
         "no": "No"
